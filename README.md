@@ -43,7 +43,7 @@ Example:
   });
 ```
 
-### show ###
+### longshow ###
 Show a Toast with a long duration.
 
 Example:
